@@ -1,0 +1,22 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "Jest framework testing practice",
+  "main": "stringFunction.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugberto/testing-practice.git"
+  },
+  "author": "mugberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mugberto/testing-practice/issues"
+  },
+  "homepage": "https://github.com/mugberto/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
